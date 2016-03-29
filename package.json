@@ -1,0 +1,17 @@
+{
+  "name": "onepos-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard for OnePOS Development team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dashboard",
+    "onepos",
+    "development",
+    "team"
+  ],
+  "author": "onepos-team",
+  "license": "MIT"
+}
